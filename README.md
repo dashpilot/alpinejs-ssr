@@ -23,6 +23,8 @@ compile(html, data);
 ```
 Check out example.js for a full demo
 
+## Supported Alpine.js attributes
+
 Supports most attributes that make sense in a server context:
 `x-text`, `x-html`,`x-for`,`:src`,`:id`
 
