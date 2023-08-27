@@ -1,6 +1,6 @@
 {
   "name": "alpinejs-ssr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dead simple server-side-rendering for Alpine.js.",
   "main": "index.js",
   "type": "module",
